@@ -132,7 +132,7 @@
     "pretty-bytes": "4.0.2",
     "react": "16.0.0",
     "react-addons-test-utils": "15.6.0",
-    "react-dom": "16.0.0",
+    "react-dom": "16.2.0",
     "react-native": "0.48.4",
     "react-redux": "5.0.6",
     "react-test-renderer": "16.0.0",
