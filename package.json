@@ -116,7 +116,7 @@
     "enzyme-adapter-react-16": "1.1.1",
     "flow-bin": "0.61.0",
     "flow-typed": "2.2.3",
-    "graphql": "0.11.7",
+    "graphql": "0.12.3",
     "graphql-tag": "2.6.1",
     "immutable": "3.8.2",
     "isomorphic-fetch": "2.2.1",
